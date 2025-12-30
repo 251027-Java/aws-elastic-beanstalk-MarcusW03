@@ -40,6 +40,7 @@ Deploy a Spring Boot application to AWS Elastic Beanstalk.
 - Watch the events log
 - Wait for "Environment health has transitioned to Ok"
 - Note the environment URL
+   - http://spring-eb-lab-env.eba-csamyqxc.us-east-1.elasticbeanstalk.com/
 
 ### Task 4: Test the Application
 ```bash
